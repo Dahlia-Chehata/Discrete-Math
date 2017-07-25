@@ -3,7 +3,7 @@ package numberTheory;
 import java.util.Scanner;
 /**
  * Number theory :Chinese remainder theorem 
- * @author select
+ * @author Dahlia Chehata
  *
  */
 public class ChineseRemainderTheorem {

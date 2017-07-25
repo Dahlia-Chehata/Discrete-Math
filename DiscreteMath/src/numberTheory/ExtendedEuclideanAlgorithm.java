@@ -3,7 +3,7 @@ package numberTheory;
 import java.util.Scanner;
 /**
  * Extended Euclidean Algorithm to calculate modular multiplicative inverse 
- * @author select
+ * @author Dahlia Chehata
  *
  */
 public class ExtendedEuclideanAlgorithm {

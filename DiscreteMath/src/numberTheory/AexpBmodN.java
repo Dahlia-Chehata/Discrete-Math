@@ -4,7 +4,7 @@ import java.math.BigInteger;
 import java.util.Scanner;
  /**
   * calculate pow (a,b) mod n 
-  * @author select
+  * @author Dahlia Chehata 
   *
   */
 public class AexpBmodN {
